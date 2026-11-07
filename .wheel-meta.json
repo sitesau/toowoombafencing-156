@@ -1,0 +1,22 @@
+{
+  "wheel_id": 802,
+  "structure": "umbrella",
+  "slug": "toowoombafencing-156",
+  "project": "fencing-contractors-toowoomba-council-and-approvals-60119b30b0f",
+  "parent_t1_ref": "toowoombafencing-013",
+  "node_role": "buffer",
+  "money_target": "toowoombafencing.au",
+  "primary_kw": "fencing contractors toowoomba council and approvals",
+  "intended_url": "https://aumedia.neocities.org/fencing-contractors-toowoomba-council-and-approvals-60119b30b0f/",
+  "tier": "T2",
+  "writeback_nonce": "1779c965bd6e7936",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/fencing-contractors-toowoomba-toowoombafencing-013/",
+      "anchor": "Fencing Contractors Toowoomba: A Practical Project Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
